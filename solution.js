@@ -15,3 +15,5 @@ function readCode() {
     return variable
 }
 console.log(readCode())
+
+// this is more pseudo code
