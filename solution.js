@@ -12,7 +12,7 @@ const stringData = data.split(/\r?\n/)
 let variable = 0
 // need to figure out the function
 function readCode() {
-    for 
+    for (i = 0; )
     return variable
 }
 console.log(readCode())
