@@ -9,6 +9,7 @@ const stringData = data.split(/\r?\n/)
 // how can i do this
 // need to write some specific code
 
+let variable = 0
 // need to figure out the function
 function readCode() {
     return variable
