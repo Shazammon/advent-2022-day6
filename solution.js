@@ -14,3 +14,4 @@ let variable = 0
 function readCode() {
     return variable
 }
+console.log(readCode())
