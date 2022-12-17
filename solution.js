@@ -8,7 +8,7 @@ const stringData = data.split(/\r?\n/)
 
 
 let variable = 0
-// need to figure out the function
+
 function readCode() {
     for (i = 0; i < stringData.length; i++)
     return variable
