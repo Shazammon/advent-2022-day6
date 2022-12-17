@@ -10,13 +10,11 @@ const stringData = data.split(/\r?\n/)
 let variable = 0
 // need to figure out the function
 function readCode() {
-    for (i = 0; )
+    for (i = 0; i < stringData.length; i++)
     return variable
 }
 console.log(readCode())
 
-// this is more pseudo code
-// writing more pseudo code
 
 function name( ) {
     return name
