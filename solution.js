@@ -18,6 +18,7 @@ function readCode() {
 console.log(readCode())
 
 // this is more pseudo code
+// writing more pseudo code
 
 function name( ) {
     return name
