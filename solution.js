@@ -20,5 +20,5 @@ console.log(readCode())
 // this is more pseudo code
 
 function name( ) {
-
+    return name
 }
