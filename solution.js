@@ -19,3 +19,5 @@ console.log(readCode())
 function name( ) {
     return name
 }
+
+// adding some new pseudo code
