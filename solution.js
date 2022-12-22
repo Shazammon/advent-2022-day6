@@ -1,6 +1,7 @@
 const fs = require('fs')
 const { parse } = require('path')
 
+//psuedo code pseduo code pseudo code
 
 let data = fs.readFileSync('data.txt', 'utf-8')
 
