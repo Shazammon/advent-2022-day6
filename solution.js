@@ -25,7 +25,7 @@ function name( ) {
 
 // adding more pseudo code
 
-// here is mu function
+// I will write a powerful function here 
 
 // just a little bit more
 
