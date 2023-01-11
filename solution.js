@@ -14,7 +14,7 @@ function readCode() {
     for (i = 0; i < stringData.length; i++)
     return variable
     for (i = 1; i< stringData.length; i++) {
-        
+
     }
 }
 console.log(readCode())
@@ -31,4 +31,4 @@ function name( ) {
 // I will write a powerful function here 
 
 
-
+// write more pseudo code
